@@ -7,6 +7,15 @@
 body{
     background: burlywood;
 }
+.social img{
+    height: auto;
+    margin-top: 10px;
+    margin-right: 50%;
+    margin-left: 55%;
+    width: 35px;
+    right:0;
+    position: fixed;
+}
 .container{
    width: 400px;
    padding: 25px 35px;
